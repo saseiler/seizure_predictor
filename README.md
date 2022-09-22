@@ -20,5 +20,5 @@ The physical structure is envisioned to be a software application used on a smar
 3. Training the code:
     - To train the code run the following command: `python seizure_predictor.py train [num_data_files]`
 4. Testing the code:
-    - To test the run the following command: `python seizure_predictor.py test`
+    - To test the run the following command: `python seizure_predictor.py predict`
 
