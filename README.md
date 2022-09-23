@@ -1,4 +1,4 @@
-# seizure_predictor
+# Seizure Predictor
 Repo for seizure predictor project
 
 Epilepsy is a chronic neurologic disorder that causes repeated seizure activity. In 2015, 1.2% of the US population had epilepsy that is about 3.4 million people (CDC, 2020). The World Health Organization estimates 50 million people worldwide have epilepsy. The risk of premature death in people with epilepsy is up to three times higher than the general population (WHO, 2022). 
@@ -13,3 +13,12 @@ A seizure detection system will monitor a user’s characteristics such as heart
 The physical structure is envisioned to be a software application used on a smart phone or smart watch. The application will take input from external devices like a user’s smart watch and camera. The application will allow the user to interact with it through a user interface. The user interface will send notifications when a seizure event is likely to occur and take input from the user to confirm the accuracy of prediction. 
 
 ![image](https://user-images.githubusercontent.com/47536604/191063494-8835d118-b1ee-4d04-943f-fb079765d5a8.png)
+
+## Running the code
+1. Clone the repository.
+2. Put the data file in the repository folder.
+3. Training the code:
+    - To train the code run the following command: `python seizure_predictor.py train [num_data_files]`
+4. Testing the code:
+    - To test the run the following command: `python seizure_predictor.py predict`
+
