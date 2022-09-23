@@ -12,7 +12,7 @@ A seizure detection system will monitor a user’s characteristics such as heart
 
 The physical structure is envisioned to be a software application used on a smart phone or smart watch. The application will take input from external devices like a user’s smart watch and camera. The application will allow the user to interact with it through a user interface. The user interface will send notifications when a seizure event is likely to occur and take input from the user to confirm the accuracy of prediction. 
 
-![image](https://user-images.githubusercontent.com/47536604/191063494-8835d118-b1ee-4d04-943f-fb079765d5a8.png)
+![image](https://user-images.githubusercontent.com/47536604/192046546-40715d8e-cee7-4586-aebf-7d0dc59523a5.png)
 
 ## Running the code
 1. Clone the repository.
