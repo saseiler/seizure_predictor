@@ -10,7 +10,7 @@ When someone has a seizure, their body typically convolutes and they are no long
 
 A seizure  detection system will monitor a user’s characteristics such as heart rate, oxygen level, sleep pattern, and physical movements. The system will analyze these inputs to establish a unique pattern of normal behavior, also known as a signature. After establishing a signature, the system will determine deviations from the signature and attempt to predict a seizure occurrence. The prediction alert will be sent to the user and caregivers to ensure no additional harm occurs. Once a prediction or identification of a seizure occurs the users will be able to confirm or refute the prediction and the system will be able to improve precision of future predictions based on feedback from users.  
 
-The physical structure is envisioned to be a software application used on a smart phone or smart watch. The application will take input from external devices like a user’s smart watch and camera. The application will allow the user to interact with it through a user interface. The user interface will send notifications when a seizure event is likely to occur and take input from the user to confirm the accuracy of prediction. 
+The physical structure is envisioned to be a software application used on a smart phone or smart watch. The application will take input from external devices like a user’s smart watch and camera. The application will allow the user to interact with it through a user interface. The user interface will send notifications when a seizure event is likely to occur and take input from the user to confirm the accuracy of prediction.  
 
 ![image](https://user-images.githubusercontent.com/47536604/192046546-40715d8e-cee7-4586-aebf-7d0dc59523a5.png)
 
