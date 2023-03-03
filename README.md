@@ -3,7 +3,7 @@ Repo for seizure predictor project
 
 Epilepsy is a chronic neurologic disorder that causes repeated seizure activity. In 2015, 1.2% of the US population had epilepsy that is about 3.4 million people (CDC, 2020). The World Health Organization estimates 50 million people worldwide have epilepsy. The risk of premature death in people with epilepsy is up to three times higher than the general population (WHO, 2022). 
 
-When someone has a seizure, their body typically convolutes and they are no longer in control of their motor functions, this can lead to fall, head trauma, drowning, and other injuries. Alerting a person before a seizure occurs could allow them time to get to a safe space before they lose control of their motor functions. Realtime or predictive alerting could drastically decrease the risk of injury during a seizure.  
+When someone has a seizure, their body typically convolutes and they are no longer in control of their motor functions, this can lead to fall, head trauma, drowning, and other injuries. Alerting a person before a seizure occurs could allow them time to get to a safe space before they lose control of their motor functions. Realtime or predictive alerting could drastically decrease the risk of injury during a seizure.   
 
 (2020, September 30). Epilepsy Data and Statistics. The Center for Disease Control (CDC). https://www.cdc.gov/epilepsy/data/index.html
 (2022, February 9). Epilepsy. The World Health Organization (WHO).  https://www.who.int/news-room/fact-sheets/detail/epilepsy
